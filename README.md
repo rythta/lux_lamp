@@ -1,2 +1,2 @@
 # lux_lamp
-![Demo](media/demo.png)
+![Demo](media/demo.gif)
